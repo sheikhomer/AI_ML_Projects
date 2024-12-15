@@ -1,0 +1,12 @@
+[submodule "BankChurnPrediction"]
+	path = BankChurnPrediction
+	url = https://github.com/sheikhomer/BankChurnPrediction.git
+[submodule "CreditCardChurnPrediction"]
+	path = CreditCardChurnPrediction
+	url = https://github.com/sheikhomer/CreditCardChurnPrediction.git
+[submodule "PersonalLoanCampaignModel"]
+	path = PersonalLoanCampaignModel
+	url = https://github.com/sheikhomer/PersonalLoanCampaignModel.git
+[submodule "FoodHubDataAnalysis"]
+	path = FoodHubDataAnalysis
+	url = https://github.com/sheikhomer/FoodHubDataAnalysis.git

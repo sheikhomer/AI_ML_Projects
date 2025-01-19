@@ -10,3 +10,6 @@
 [submodule "FoodHubDataAnalysis"]
 	path = FoodHubDataAnalysis
 	url = https://github.com/sheikhomer/FoodHubDataAnalysis.git
+[submodule "PlantSeedlingsClassification"]
+	path = PlantSeedlingsClassification
+	url = https://github.com/sheikhomer/PlantSeedlingsClassification.git

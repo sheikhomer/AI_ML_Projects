@@ -13,3 +13,6 @@
 [submodule "PlantSeedlingsClassification"]
 	path = PlantSeedlingsClassification
 	url = https://github.com/sheikhomer/PlantSeedlingsClassification.git
+[submodule "StockMarketSentimentAnalysisAndSummarization"]
+	path = StockMarketSentimentAnalysisAndSummarization
+	url = https://github.com/sheikhomer/StockMarketSentimentAnalysisAndSummarization.git
